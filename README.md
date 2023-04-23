@@ -6,8 +6,8 @@ Some samples uploaded on a free hosting service
 
 Some usages (will expire soon)
 
-http://saurabhwedshimani.com/
-http://nitikawedsrahul.com/
+https://github.com/PrajwalHanamanthagoudr/prajwalhanamanthagoudr.github.io
+https://github.com/PrajwalHanamanthagoudr/prajwalhanamanthagoudr.github.io
 
 Feel free to extend it for your own use.
 
